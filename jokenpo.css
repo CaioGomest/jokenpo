@@ -56,6 +56,29 @@ header{
     cursor: pointer;
  
  }
+ @media only screen and (max-width: 600px){
+    
+    .mensagem{
+        height: 30%;
+      text-align: center;
+    }
+    .mensagem h1{
+        font-size: 40px;
+     
+     }
+     #mensagem h4{
+         font-size: 18px;
+      
+      }
+      #mensagem button{
+         font-size: 30px;
+         margin-top: 10px;
+    
+      
+      }
+
+
+ }
 .player{
     width: 100%;
     height: auto;
