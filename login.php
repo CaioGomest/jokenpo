@@ -2,11 +2,12 @@
 <html>
 <head>
 	<title>Slide Navbar</title>
-	<link rel="stylesheet" type="text/css" href="login.css">
-<link href="https://fonts.googleapis.com/css2?family=Jost:wght@500&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="login.css">
+	<meta name="viewport" content="width=device-width">
+	<link href="https://fonts.googleapis.com/css2?family=Jost:wght@500&display=swap" rel="stylesheet">
 </head>
 <body>
-	<div class="main">  	
+	<div class="main" id="main">  	
 		<input type="checkbox" id="chk" aria-hidden="true">
 
 			<div class="signup">
