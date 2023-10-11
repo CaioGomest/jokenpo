@@ -119,7 +119,7 @@ button:hover {
         scale: 2;
     }
 }
-@media only screen and (max-width:450px) {
+@media only screen and (max-width:550px) {
     .main{
         scale: 1;
         min-width: 90%;
