@@ -123,7 +123,10 @@ button:hover {
     .main{
         scale: 1;
         min-width: 90%;
-        max-width: 95%;
+        max-width: 93%;
         margin-bottom: 5%;
+    }
+    body{
+        height: 95vh;
     }
 }
