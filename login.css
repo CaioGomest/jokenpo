@@ -97,7 +97,7 @@ button:hover {
 
 
 #chk:checked~.login {
-    transform: translateY(-625px);
+    transform: translateY(-690px);
     border-top-left-radius: 0;
     border-top-right-radius: 0;
 }
@@ -109,7 +109,7 @@ button:hover {
 
 #chk:checked~.signup  {
     transform: scale(.6);
-    transform: translateY(350px);
+    transform: translateY(390px);
     z-index: 1;
     border-top-left-radius: 60% 10%;
     border-top-right-radius: 60% 10%;
